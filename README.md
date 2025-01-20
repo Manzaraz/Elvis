@@ -5,4 +5,4 @@ This is Prof. John Gallaugher's SwiftUI Challenge: The Elvis Costello Peace, Lov
 It was a funny challenge that i really loved to do.
 
 by Christian Manzaraz: 
-[My Personal Website](https://manzaraz.com.ar) [My LinkedIn Profile](https://www.linkedin.com/in/manzaraz/)
+Please, visit [My Personal Website](https://manzaraz.com.ar) and [My LinkedIn Profile](https://www.linkedin.com/in/manzaraz/)
